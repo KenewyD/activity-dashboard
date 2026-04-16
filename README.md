@@ -4,7 +4,7 @@
 
 ## 🚀 Démo en ligne
 
-👉 **[Accéder au tableau de bord](LIEN_STREAMLIT_ICI)**
+👉 **[Accéder au tableau de bord]([LIEN_STREAMLIT_ICI](https://activity-dashboard-k5fwshrk7wulatry4j9jri.streamlit.app/))**
 
 ---
 
